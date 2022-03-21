@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zixiaojie.github.io/sitemap.xml
